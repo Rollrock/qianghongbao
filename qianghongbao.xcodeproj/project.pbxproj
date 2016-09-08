@@ -41,7 +41,7 @@
 		4874CFB6193C194800996F09 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4874CF9B193C194800996F09 /* Foundation.framework */; };
 		4874CFB7193C194800996F09 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4874CF9F193C194800996F09 /* UIKit.framework */; };
 		4874CFBF193C194800996F09 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4874CFBD193C194800996F09 /* InfoPlist.strings */; };
-		4874CFC1193C194800996F09 /* fruit2048Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4874CFC0193C194800996F09 /* fruit2048Tests.m */; };
+		4874CFC1193C194800996F09 /* qianghongbaoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4874CFC0193C194800996F09 /* qianghongbaoTests.m */; };
 		4874CFEA193C199900996F09 /* GameView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4874CFD4193C199800996F09 /* GameView.m */; };
 		4874CFFC193C199900996F09 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4874CFE8193C199800996F09 /* MainViewController.m */; };
 		4874CFFE193C19FC00996F09 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4874CFFD193C19FC00996F09 /* AudioToolbox.framework */; };
@@ -93,22 +93,22 @@
 		48585D8A1D3F47E4007786F5 /* 4096_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4096_0.png; sourceTree = "<group>"; };
 		48585D8B1D3F47E4007786F5 /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg.png; sourceTree = "<group>"; };
 		48585D8C1D3F47E4007786F5 /* select.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = select.png; sourceTree = "<group>"; };
-		4874CF98193C194800996F09 /* fruit2048.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fruit2048.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4874CF98193C194800996F09 /* qianghongbao.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = qianghongbao.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4874CF9B193C194800996F09 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4874CF9D193C194800996F09 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		4874CF9F193C194800996F09 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		4874CFA3193C194800996F09 /* fruit2048-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "fruit2048-Info.plist"; sourceTree = "<group>"; };
+		4874CFA3193C194800996F09 /* qianghongbao-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "qianghongbao-Info.plist"; sourceTree = "<group>"; };
 		4874CFA5193C194800996F09 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4874CFA7193C194800996F09 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4874CFA9193C194800996F09 /* fruit2048-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "fruit2048-Prefix.pch"; sourceTree = "<group>"; };
+		4874CFA9193C194800996F09 /* qianghongbao-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "qianghongbao-Prefix.pch"; sourceTree = "<group>"; };
 		4874CFAA193C194800996F09 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4874CFAB193C194800996F09 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		4874CFAD193C194800996F09 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		4874CFB3193C194800996F09 /* fruit2048Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = fruit2048Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4874CFB3193C194800996F09 /* qianghongbao.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = qianghongbao.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4874CFB4193C194800996F09 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		4874CFBC193C194800996F09 /* fruit2048Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "fruit2048Tests-Info.plist"; sourceTree = "<group>"; };
+		4874CFBC193C194800996F09 /* qianghongbaoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "qianghongbaoTests-Info.plist"; sourceTree = "<group>"; };
 		4874CFBE193C194800996F09 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		4874CFC0193C194800996F09 /* fruit2048Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = fruit2048Tests.m; sourceTree = "<group>"; };
+		4874CFC0193C194800996F09 /* qianghongbaoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = qianghongbaoTests.m; sourceTree = "<group>"; };
 		4874CFD3193C199800996F09 /* GameView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameView.h; sourceTree = "<group>"; };
 		4874CFD4193C199800996F09 /* GameView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameView.m; sourceTree = "<group>"; };
 		4874CFE7193C199800996F09 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
@@ -182,8 +182,8 @@
 		4874CF8F193C194800996F09 = {
 			isa = PBXGroup;
 			children = (
-				4874CFA1193C194800996F09 /* fruit2048 */,
-				4874CFBA193C194800996F09 /* fruit2048Tests */,
+				4874CFA1193C194800996F09 /* qianghongbao */,
+				4874CFBA193C194800996F09 /* qianghongbao */,
 				4874CF9A193C194800996F09 /* Frameworks */,
 				4874CF99193C194800996F09 /* Products */,
 			);
@@ -192,8 +192,8 @@
 		4874CF99193C194800996F09 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4874CF98193C194800996F09 /* fruit2048.app */,
-				4874CFB3193C194800996F09 /* fruit2048Tests.xctest */,
+				4874CF98193C194800996F09 /* qianghongbao.app */,
+				4874CFB3193C194800996F09 /* qianghongbao.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -219,7 +219,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		4874CFA1193C194800996F09 /* fruit2048 */ = {
+		4874CFA1193C194800996F09 /* qianghongbao */ = {
 			isa = PBXGroup;
 			children = (
 				4874CFAA193C194800996F09 /* AppDelegate.h */,
@@ -227,7 +227,7 @@
 				4874CFAD193C194800996F09 /* Images.xcassets */,
 				4874CFA2193C194800996F09 /* Supporting Files */,
 			);
-			path = fruit2048;
+			path = qianghongbao;
 			sourceTree = "<group>";
 		};
 		4874CFA2193C194800996F09 /* Supporting Files */ = {
@@ -243,27 +243,28 @@
 				4874CFD3193C199800996F09 /* GameView.h */,
 				4874CFD4193C199800996F09 /* GameView.m */,
 				4874CFD5193C199800996F09 /* images */,
-				4874CFA3193C194800996F09 /* fruit2048-Info.plist */,
+				4874CFA3193C194800996F09 /* qianghongbao-Info.plist */,
 				4874CFA4193C194800996F09 /* InfoPlist.strings */,
 				4874CFA7193C194800996F09 /* main.m */,
-				4874CFA9193C194800996F09 /* fruit2048-Prefix.pch */,
+				4874CFA9193C194800996F09 /* qianghongbao-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		4874CFBA193C194800996F09 /* fruit2048Tests */ = {
+		4874CFBA193C194800996F09 /* qianghongbao */ = {
 			isa = PBXGroup;
 			children = (
-				4874CFC0193C194800996F09 /* fruit2048Tests.m */,
+				4874CFC0193C194800996F09 /* qianghongbaoTests.m */,
 				4874CFBB193C194800996F09 /* Supporting Files */,
 			);
-			path = fruit2048Tests;
+			name = qianghongbao;
+			path = qianghongbaoTests;
 			sourceTree = "<group>";
 		};
 		4874CFBB193C194800996F09 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				4874CFBC193C194800996F09 /* fruit2048Tests-Info.plist */,
+				4874CFBC193C194800996F09 /* qianghongbaoTests-Info.plist */,
 				4874CFBD193C194800996F09 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -293,9 +294,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4874CF97193C194800996F09 /* fruit2048 */ = {
+		4874CF97193C194800996F09 /* qianghongbao */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4874CFC4193C194800996F09 /* Build configuration list for PBXNativeTarget "fruit2048" */;
+			buildConfigurationList = 4874CFC4193C194800996F09 /* Build configuration list for PBXNativeTarget "qianghongbao" */;
 			buildPhases = (
 				4874CF94193C194800996F09 /* Sources */,
 				4874CF95193C194800996F09 /* Frameworks */,
@@ -305,14 +306,14 @@
 			);
 			dependencies = (
 			);
-			name = fruit2048;
+			name = qianghongbao;
 			productName = fruit2048;
-			productReference = 4874CF98193C194800996F09 /* fruit2048.app */;
+			productReference = 4874CF98193C194800996F09 /* qianghongbao.app */;
 			productType = "com.apple.product-type.application";
 		};
-		4874CFB2193C194800996F09 /* fruit2048Tests */ = {
+		4874CFB2193C194800996F09 /* qianghongbaoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4874CFC7193C194800996F09 /* Build configuration list for PBXNativeTarget "fruit2048Tests" */;
+			buildConfigurationList = 4874CFC7193C194800996F09 /* Build configuration list for PBXNativeTarget "qianghongbaoTests" */;
 			buildPhases = (
 				4874CFAF193C194800996F09 /* Sources */,
 				4874CFB0193C194800996F09 /* Frameworks */,
@@ -323,9 +324,9 @@
 			dependencies = (
 				4874CFB9193C194800996F09 /* PBXTargetDependency */,
 			);
-			name = fruit2048Tests;
+			name = qianghongbaoTests;
 			productName = fruit2048Tests;
-			productReference = 4874CFB3193C194800996F09 /* fruit2048Tests.xctest */;
+			productReference = 4874CFB3193C194800996F09 /* qianghongbao.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -353,7 +354,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4874CF93193C194800996F09 /* Build configuration list for PBXProject "fruit2048" */;
+			buildConfigurationList = 4874CF93193C194800996F09 /* Build configuration list for PBXProject "qianghongbao" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -365,8 +366,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4874CF97193C194800996F09 /* fruit2048 */,
-				4874CFB2193C194800996F09 /* fruit2048Tests */,
+				4874CF97193C194800996F09 /* qianghongbao */,
+				4874CFB2193C194800996F09 /* qianghongbaoTests */,
 			);
 		};
 /* End PBXProject section */
@@ -425,7 +426,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4874CFC1193C194800996F09 /* fruit2048Tests.m in Sources */,
+				4874CFC1193C194800996F09 /* qianghongbaoTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -434,7 +435,7 @@
 /* Begin PBXTargetDependency section */
 		4874CFB9193C194800996F09 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4874CF97193C194800996F09 /* fruit2048 */;
+			target = 4874CF97193C194800996F09 /* qianghongbao */;
 			targetProxy = 4874CFB8193C194800996F09 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -546,21 +547,21 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/fruit2048/GoogleMobileAdsSdkiOS-7.5.2",
+					"$(PROJECT_DIR)/qianghongbao/GoogleMobileAdsSdkiOS-7.5.2",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "fruit2048/fruit2048-Prefix.pch";
-				INFOPLIST_FILE = "fruit2048/fruit2048-Info.plist";
+				GCC_PREFIX_HEADER = "qianghongbao/qianghongbao-Prefix.pch";
+				INFOPLIST_FILE = "qianghongbao/qianghongbao-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/fruit2048/AdMob",
-					"$(PROJECT_DIR)/fruit2048/youmi/lib",
-					"$(PROJECT_DIR)/fruit2048/WeChatSDK",
+					"$(PROJECT_DIR)/qianghongbao/AdMob",
+					"$(PROJECT_DIR)/qianghongbao/youmi/lib",
+					"$(PROJECT_DIR)/qianghongbao/WeChatSDK",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rock.hongbao;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = qianghongbao;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -577,21 +578,21 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/fruit2048/GoogleMobileAdsSdkiOS-7.5.2",
+					"$(PROJECT_DIR)/qianghongbao/GoogleMobileAdsSdkiOS-7.5.2",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "fruit2048/fruit2048-Prefix.pch";
-				INFOPLIST_FILE = "fruit2048/fruit2048-Info.plist";
+				GCC_PREFIX_HEADER = "qianghongbao/qianghongbao-Prefix.pch";
+				INFOPLIST_FILE = "qianghongbao/qianghongbao-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/fruit2048/AdMob",
-					"$(PROJECT_DIR)/fruit2048/youmi/lib",
-					"$(PROJECT_DIR)/fruit2048/WeChatSDK",
+					"$(PROJECT_DIR)/qianghongbao/AdMob",
+					"$(PROJECT_DIR)/qianghongbao/youmi/lib",
+					"$(PROJECT_DIR)/qianghongbao/WeChatSDK",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rock.hongbao;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = qianghongbao;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
 				VALID_ARCHS = "armv7 armv7s arm64";
@@ -609,13 +610,13 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "fruit2048/fruit2048-Prefix.pch";
+				GCC_PREFIX_HEADER = "fruit2048/qianghongbao-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "fruit2048Tests/fruit2048Tests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "fruit2048Tests/qianghongbaoTests-Info.plist";
+				PRODUCT_NAME = qianghongbao;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -631,9 +632,9 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "fruit2048/fruit2048-Prefix.pch";
-				INFOPLIST_FILE = "fruit2048Tests/fruit2048Tests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "fruit2048/qianghongbao-Prefix.pch";
+				INFOPLIST_FILE = "fruit2048Tests/qianghongbaoTests-Info.plist";
+				PRODUCT_NAME = qianghongbao;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -642,7 +643,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4874CF93193C194800996F09 /* Build configuration list for PBXProject "fruit2048" */ = {
+		4874CF93193C194800996F09 /* Build configuration list for PBXProject "qianghongbao" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4874CFC2193C194800996F09 /* Debug */,
@@ -651,7 +652,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4874CFC4193C194800996F09 /* Build configuration list for PBXNativeTarget "fruit2048" */ = {
+		4874CFC4193C194800996F09 /* Build configuration list for PBXNativeTarget "qianghongbao" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4874CFC5193C194800996F09 /* Debug */,
@@ -660,7 +661,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4874CFC7193C194800996F09 /* Build configuration list for PBXNativeTarget "fruit2048Tests" */ = {
+		4874CFC7193C194800996F09 /* Build configuration list for PBXNativeTarget "qianghongbaoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4874CFC8193C194800996F09 /* Debug */,

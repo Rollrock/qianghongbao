@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface fruit2048Tests : XCTestCase
+@interface qianghongbaoTests : XCTestCase
 
 @end
 
-@implementation fruit2048Tests
+@implementation qianghongbaoTests
 
 - (void)setUp
 {
