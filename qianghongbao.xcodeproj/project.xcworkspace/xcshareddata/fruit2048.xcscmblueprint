@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "119451476FFA6124CB0425CCC040A85373A702C2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "09E1E313CB0B0E580CCD39B4B5302E2B03B541D1" : 0,
+    "119451476FFA6124CB0425CCC040A85373A702C2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2F64AB42-381E-47C4-8ACF-AC24E0DC814A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "09E1E313CB0B0E580CCD39B4B5302E2B03B541D1" : "fruit2048",
+    "119451476FFA6124CB0425CCC040A85373A702C2" : "qianghongbao\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "fruit2048",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "fruit2048.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Rollrock\/fruit2048.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "09E1E313CB0B0E580CCD39B4B5302E2B03B541D1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Rollrock\/qianghongbao.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "119451476FFA6124CB0425CCC040A85373A702C2"
+    }
+  ]
+}
